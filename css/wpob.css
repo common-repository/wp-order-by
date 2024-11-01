@@ -1,0 +1,29 @@
+.wpob_option {
+    padding: 8px;
+}
+.custom_fields_type_container {
+padding-left: 16px;
+}
+.custom_fields_type_container  .description{
+	padding: 8px 0;
+	font-weight: bold;
+}
+.wpob_settings_container .notice, .wpob_settings_container div.error, .wpob_settings_container div.updated {
+    margin: 5px 0 18px;
+}
+.wpob_settings_container .description {
+	    font-size: 14px;
+}
+.warning {
+    font-weight: bold;
+    font-size: 15px!important;
+	    margin-top: 20px!important;
+}
+.exclude_container {
+    margin-top: 22px;
+}
+
+#posts_select_box {
+    height: 203px;
+	padding: 2px 4px;
+}
